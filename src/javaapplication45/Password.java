@@ -3,7 +3,7 @@ package javaapplication45;
 
 /**
  *
- * @author bennettthomas24
+ * @author Ben2474
  */
 public class Password {
  String Value;
